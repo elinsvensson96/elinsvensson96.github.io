@@ -1,0 +1,41 @@
+#first-page {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 20px;
+}
+
+#first-page p {
+    margin: 20px 0;
+    line-height: 1.2cm;
+    text-align: center;
+
+}
+#first-page h1 {
+    margin: 20px 0;
+    font-weight: lighter;
+    text-align: center;
+}
+
+
+#image-first_page {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 250px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+#image-first_page img {
+    border-radius: 2px;
+    width: 300px;
+    height: 200px;
+    box-shadow: 0 20px 25px -5px #cacaca, 0 8px 2px -50px #d8d8d8; 
+    margin: 20px;       
+
+}
