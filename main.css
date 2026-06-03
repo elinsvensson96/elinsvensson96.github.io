@@ -122,6 +122,7 @@ footer {
     margin: 0 auto;
     padding: 5px 150px 0;
     justify-content: space-between;
+    padding: 20px;
 }
 
 #contact {
@@ -132,4 +133,9 @@ footer {
 #contact a {
     color: #616161;
     text-decoration: none;
+    margin: 6px 0;
+}
+
+#socials .fa-brands  {
+    padding: 10px 0 ;
 }
